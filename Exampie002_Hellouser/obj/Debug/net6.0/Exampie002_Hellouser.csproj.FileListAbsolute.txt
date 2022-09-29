@@ -1,0 +1,15 @@
+C:\Users\Анастасия\Desktop\Examples\Exampie002_Hellouser\obj\Debug\net6.0\Exampie002_Hellouser.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\Examples\Exampie002_Hellouser\obj\Debug\net6.0\Exampie002_Hellouser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\Desktop\Examples\Exampie002_Hellouser\obj\Debug\net6.0\Exampie002_Hellouser.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Desktop\Examples\Exampie002_Hellouser\obj\Debug\net6.0\Exampie002_Hellouser.AssemblyInfo.cs
+C:\Users\Анастасия\Desktop\Examples\Exampie002_Hellouser\obj\Debug\net6.0\Exampie002_Hellouser.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\Examples\Exampie002_Hellouser\bin\Debug\net6.0\Exampie002_Hellouser.exe
+C:\Users\Анастасия\Desktop\Examples\Exampie002_Hellouser\bin\Debug\net6.0\Exampie002_Hellouser.deps.json
+C:\Users\Анастасия\Desktop\Examples\Exampie002_Hellouser\bin\Debug\net6.0\Exampie002_Hellouser.runtimeconfig.json
+C:\Users\Анастасия\Desktop\Examples\Exampie002_Hellouser\bin\Debug\net6.0\Exampie002_Hellouser.dll
+C:\Users\Анастасия\Desktop\Examples\Exampie002_Hellouser\bin\Debug\net6.0\Exampie002_Hellouser.pdb
+C:\Users\Анастасия\Desktop\Examples\Exampie002_Hellouser\obj\Debug\net6.0\Exampie002_Hellouser.dll
+C:\Users\Анастасия\Desktop\Examples\Exampie002_Hellouser\obj\Debug\net6.0\refint\Exampie002_Hellouser.dll
+C:\Users\Анастасия\Desktop\Examples\Exampie002_Hellouser\obj\Debug\net6.0\Exampie002_Hellouser.pdb
+C:\Users\Анастасия\Desktop\Examples\Exampie002_Hellouser\obj\Debug\net6.0\Exampie002_Hellouser.genruntimeconfig.cache
+C:\Users\Анастасия\Desktop\Examples\Exampie002_Hellouser\obj\Debug\net6.0\ref\Exampie002_Hellouser.dll
